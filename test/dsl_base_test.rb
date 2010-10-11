@@ -1,3 +1,4 @@
+# -*- encoding : UTF-8 -*-
 require 'ostruct'
 require 'test_helper'
 require File.join(File.dirname(__FILE__), '..', 'lib', 'acl9', 'controller_extensions', 'dsl_base')

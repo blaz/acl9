@@ -1,3 +1,4 @@
+# -*- encoding : UTF-8 -*-
 module Acl9
   @@config = {
     :default_role_class_name => 'Role',

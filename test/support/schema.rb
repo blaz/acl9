@@ -1,3 +1,4 @@
+# -*- encoding : UTF-8 -*-
 ActiveRecord::Schema.define(:version => 0) do
   create_table "roles", :force => true do |t|
     t.string   "name",              :limit => 40

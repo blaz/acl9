@@ -1,3 +1,4 @@
+# -*- encoding : UTF-8 -*-
 class ApplicationController < ActionController::Base
   rescue_from Acl9::AccessDenied do |e|
     render :text => 'AccessDenied'

@@ -1,3 +1,4 @@
+# -*- encoding : UTF-8 -*-
 module Acl9
   module ModelExtensions
     module ForObject

@@ -1,3 +1,4 @@
+# -*- encoding : UTF-8 -*-
 require File.join(File.dirname(__FILE__), 'model_extensions', 'for_subject')
 require File.join(File.dirname(__FILE__), 'model_extensions', 'for_object')
 

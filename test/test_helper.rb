@@ -1,3 +1,4 @@
+# -*- encoding : UTF-8 -*-
 require 'rubygems'
 
 gem 'jnunemaker-matchy', '>= 0.4.0'
